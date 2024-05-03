@@ -25,9 +25,10 @@ This archive contains the [R](https://en.wikipedia.org/wiki/R_(programming_langu
 
 This repository contains a dataset with the extracted meta-analytic data and a Jupyter notebook that reports the analysis and results
 
-1.  [DATAFILENAME.csv](https://github.com/ElisavetPappa/delusion_theme_meta/blob/main/XYZZY.csv) - datafile that contains extracted data
+1.  [delusion_theme_meta_data.csv](https://github.com/ElisavetPappa/delusion_theme_meta/blob/main/delusion_theme_meta_data.csv) - datafile that contains extracted data
 2.  [Pappa_et_al_meta_struct_only.ipynb](https://github.com/ElisavetPappa/delusion_theme_meta/blob/main/Pappa_et_al_meta_struct_only.ipynb) - Jupyter notebook that contains the reproducible analysis for the meta-analysis of validated and structured assessments only
 3.  [Pappa_et_al_meta_inclusive.ipynb](https://github.com/ElisavetPappa/delusion_theme_meta/blob/main/Pappa_et_al_meta_inclusive.ipynb) - Jupyter notebook that contains the reproducible analysis for the meta-analysis including clinical and ad-hoc assessments
+4.  [HumanFriendlyLabels.csv](https://github.com/ElisavetPappa/delusion_theme_meta/blob/main/HumanFriendlyLabels.csv) - human readable delusion theme names used to display friendly results in the analysis
 
 ### Platform and package versions
 
