@@ -786,10 +786,10 @@ Kala 1982,Kala 1982 S_1,1,1982,India,Asia,Purposive,200,200.0,Hindu,Southern Asi
 Kala 1982,Kala 1982 S_1,1,1982,India,Asia,Purposive,200,200.0,Hindu,Southern Asia,Schizophrenia,no,Outpatient,PSE,Validated,Structured,0.465,30.0,,,7,n_depressive,17.0
 Kala 1982,Kala 1982 S_1,1,1982,India,Asia,Purposive,200,200.0,Hindu,Southern Asia,Schizophrenia,no,Outpatient,PSE,Validated,Structured,0.465,30.0,,,7,n_infidelity_loveaffair,42.0
 Kala 1982,Kala 1982 S_1,1,1982,India,Asia,Purposive,200,200.0,Hindu,Southern Asia,Schizophrenia,no,Outpatient,PSE,Validated,Structured,0.465,30.0,,,7,n_persecutory,164.0
-Kamara 2009,Kamara 2009 S_1,1,2009,North America,North America,Stratified,183,183.0,,Anglo,Major Depressive Disorder,yes,Both,SAPS,Validated,Structured,,,,,8,n_paranoid,21.0
-Kamara 2009,Kamara 2009 S_1,1,2009,North America,North America,Stratified,183,183.0,,Anglo,Major Depressive Disorder,yes,Both,SAPS,Validated,Structured,,,,,8,n_other,31.0
-Kamara 2009,Kamara 2009 S_1,1,2009,North America,North America,Stratified,183,183.0,,Anglo,Major Depressive Disorder,yes,Both,SAPS,Validated,Structured,,,,,8,n_guilt/sin,18.0
-Kamara 2009,Kamara 2009 S_1,1,2009,North America,North America,Stratified,183,183.0,,Anglo,Major Depressive Disorder,yes,Both,SAPS,Validated,Structured,,,,,8,n_somatic,52.0
+Kamara 2009,Kamara 2009 S_1,1,2009,USA,North America,Stratified,183,183.0,,Anglo,Major Depressive Disorder,yes,Both,SAPS,Validated,Structured,,,,,8,n_paranoid,21.0
+Kamara 2009,Kamara 2009 S_1,1,2009,USA,North America,Stratified,183,183.0,,Anglo,Major Depressive Disorder,yes,Both,SAPS,Validated,Structured,,,,,8,n_other,31.0
+Kamara 2009,Kamara 2009 S_1,1,2009,USA,North America,Stratified,183,183.0,,Anglo,Major Depressive Disorder,yes,Both,SAPS,Validated,Structured,,,,,8,n_guilt/sin,18.0
+Kamara 2009,Kamara 2009 S_1,1,2009,USA,North America,Stratified,183,183.0,,Anglo,Major Depressive Disorder,yes,Both,SAPS,Validated,Structured,,,,,8,n_somatic,52.0
 Kamperman 2017,Kamperman 2017 S_1,1,2017,Netherlands,Europe,Purposive,130,,Dutch,Germanic Europe,Postpartum Psychosis,no,Inpatient,SCID,Validated,Structured,1.0,31.4,0.1,,10,n_other,27.0
 Kamperman 2017,Kamperman 2017 S_1,1,2017,Netherlands,Europe,Purposive,130,,Dutch,Germanic Europe,Postpartum Psychosis,no,Inpatient,SCID,Validated,Structured,1.0,31.4,0.1,,10,n_somatic,18.0
 Kamperman 2017,Kamperman 2017 S_1,1,2017,Netherlands,Europe,Purposive,130,,Dutch,Germanic Europe,Postpartum Psychosis,no,Inpatient,SCID,Validated,Structured,1.0,31.4,0.1,,10,n_reference,65.0
