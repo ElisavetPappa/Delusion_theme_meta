@@ -15,7 +15,7 @@ Analysis code and results for the study
 </p>
 
 ### Publication status
-In submission
+Pappa E, Baah F, Lynch J, Shiel L, Blackman G, Raihani N, Bell V (in press) Delusional Themes are More Varied Than Previously Assumed: A Comprehensive Systematic Review and Meta-Analysis. *Schizophrenia Bulletin*
 
 ### Preregistration
 This systematic review and meta-analysis was preregistered on PROSPERO with the registration number CRD42019151889. The pre-registration can be accessed [here](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=151889).
