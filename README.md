@@ -1,6 +1,6 @@
 Analysis code and results for the study
 
-# Prevalence of delusional themes among patients with psychosis: a systematic review and meta-analysis
+# Delusional Themes are More Varied Than Previously Assumed: A Comprehensive Systematic Review and Meta-Analysis
 
 <p align="center">
 	<a href="https://en.wikipedia.org/wiki/R_(programming_language)"><img
